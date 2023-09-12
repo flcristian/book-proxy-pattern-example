@@ -1,0 +1,15 @@
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\bin\Debug\net6.0\book-proxy-pattern-example.exe
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\bin\Debug\net6.0\book-proxy-pattern-example.deps.json
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\bin\Debug\net6.0\book-proxy-pattern-example.runtimeconfig.json
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\bin\Debug\net6.0\book-proxy-pattern-example.dll
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\bin\Debug\net6.0\book-proxy-pattern-example.pdb
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.csproj.AssemblyReference.cache
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.dll
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\refint\book-proxy-pattern-example.dll
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.pdb
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\book-proxy-pattern-example.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\book-proxy-pattern-example\book-proxy-pattern-example\obj\Debug\net6.0\ref\book-proxy-pattern-example.dll
